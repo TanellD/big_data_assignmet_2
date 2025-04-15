@@ -1,0 +1,10 @@
+wheel
+cassandra-driver
+venv-pack
+pyarrow
+fastparquet
+pathvalidate
+pyspark
+tqdm
+nltk
+cqlsh

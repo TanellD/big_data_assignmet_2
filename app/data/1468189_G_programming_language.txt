@@ -1,0 +1,1 @@
+G programming language may refer to: * G-code, programming language, used mainly in automation. * G, the graphical programming language used in LabVIEW. * G, a programming language for rapid development of OpenGL applications.

@@ -1,0 +1,1 @@
+G77 or G-77 may refer to: * The old g77 FORTRAN compiler of GCC which has been replaced by GNU Fortran since release 4.0. * Group of 77, a loose coalition of developing nations designed to promote its members' collective economic interests and create an enhanced joint negotiating capacity in the United Nations.
