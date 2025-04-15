@@ -71,6 +71,13 @@ spark.stop()
     fi
 }
 
+
+if ! process_directory "/app/data"; then
+                log "Failed to process and upload"
+                exit 1
+fi
+
+
 # Handle custom path input
 if [ "$#" -eq 1 ]; then
     CUSTOM_PATH="$1"
